@@ -1,1 +1,1 @@
-# respository for personal projects
+# repository for personal projects
